@@ -1,5 +1,8 @@
 _repo: When-Oscar-Went-Wild_65961
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65961-h/images/cover.jpg
 creator:
   author:
     agent_name: Tuttle, W. C. (Wilbur C.)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52836
     wikipedia: https://en.wikipedia.org/wiki/W._C._Tuttle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65961#When-Oscar-Went-Wild
 gutenberg_issued: '2021-07-30'
 gutenberg_type: Text
 identifiers:
