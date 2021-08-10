@@ -1,0 +1,26 @@
+_repo: When-Oscar-Went-Wild_65961
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tuttle, W. C. (Wilbur C.)
+    aliases:
+    - Tuttle, Wilbur C.
+    - Tuttle, Wilbur Coleman
+    birthdate: 1883
+    deathdate: 1969
+    gutenberg_agent_id: '52836'
+    url: http://www.gutenberg.org/2009/agents/52836
+    wikipedia: https://en.wikipedia.org/wiki/W._C._Tuttle
+description: ''
+gutenberg_issued: '2021-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65961'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: When Oscar Went Wild
+url: http://www.gutenberg.org/ebooks/65961
